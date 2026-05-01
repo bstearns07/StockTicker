@@ -113,12 +113,5 @@ This project helped reinforce several important development concepts:
 
 ## 🖼 Screenshots
 
-> 📌 *Add screenshots here to showcase:*
-- Console input/output
-- Sample stock data table
-- Generated line chart
-
-Example:
-```md
-![Sample Output](images/sample-output.png)
-![Chart](images/chart.png)
+### Successful Output
+![Output](images/StockTicker.png)
