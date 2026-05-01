@@ -7,6 +7,12 @@
 
 ---
 
+## 👤 Author
+Ben Stearns - [@bstearns07](https://github.com/bstearns07)
+
+📅 Last Updated: 10-1-25
+
+---
 ## 📑 Table of Contents
 - 📌 [Summary](#-summary)
 - ⭐ [How It Works](#-how-it-works)
